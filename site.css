@@ -1,0 +1,28 @@
+/* EDIT BELOW THIS LINE */
+
+/* Add styles for section-1 */
+.section-1{
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr 1fr 2fr;
+    grid-template-rows: 200px;
+}
+
+.flex-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Add styles for section-2 */
+
+/* Add styles for section-3 */
+
+/* Add styles for section-4 */
+
+/* Add styles for section-5 */
+
+/* Add styles for section-6 */
+
+/* Add styles for section-7 */
+
+/* Add styles for section-8 */
